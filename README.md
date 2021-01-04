@@ -12,6 +12,7 @@ The M-App currently support the analysis of eye-tracking data from Eye-link devi
 - Timestamp
 - Target_X
 - Target_Y
+
 Where Gaze_X and Gaze_Y indicate the gaze position on the screen, while Target_X and Target_Y indicate the position of the visual stimulus (target) of the visually guided task.
 
 Please notice: Some experimental setup (user/screen distances, screen size, ...) are hard cabled in the software. Please verify your experimental setup is aligned with our standard values.
