@@ -23,11 +23,19 @@ The M-App is intended to be used to let a human expert evaluate each segmented s
 # Citation
 If you use this software, please cite
 
+
 @misc{Zanca2020,
+
   author = {Zanca, Dario},
+  
   title = {Saccade Analysis Matlab App},
+  
   year = {2020},
+  
   publisher = {GitHub},
+  
   journal = {GitHub repository},
+  
   howpublished = {\url{https://github.com/dariozanca/SaccadeAnalysisMatlabApp}}
+  
 }
