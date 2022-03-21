@@ -28,7 +28,7 @@ If you use this software, please cite
 
 @misc{Zanca2020,
 
-  author = {Zanca, Dario},
+  author = {Zanca, Dario and Serchi, Valeria},
   
   title = {Saccade Analysis Matlab App},
   
