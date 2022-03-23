@@ -1,0 +1,65 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="3278208803" file="C:\Users\vse\Desktop\personal\EVALAB\ProgrammaSaccadi\SaccadeAnalysisMatlabApp\SaccadeAnalysisApp_2.prj" location="C:\Users\vse\Desktop\personal\EVALAB\ProgrammaSaccadi\SaccadeAnalysisMatlabApp" name="SaccadeAnalysisApp_2" target="target.mlapps" target-name="Package App">
+    <param.appname>SaccadeAnalysisApp_2</param.appname>
+    <param.authnamewatermark>Dario Zanca, Ph.D., Valeria Serchi Ph.D.</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>Saccade analysis and creation of excel reports and graphs</param.summary>
+    <param.description>Graphic tool for the extraction of bags from raw data and calculation of some basic statistics. You can export a report in excel for further analysis. In the current version the tool supports EyeLink Portable Duo and ASL data extracted in txt format and previous saved data as .mat.</param.description>
+    <param.screenshot>C:\Users\vse\AppData\Local\Temp\tp14b42510_d067_4549_b64a_99f04981f972.png</param.screenshot>
+    <param.version>2.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>e1c3902a-3b8e-4317-bfbd-febec37e49b8</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\SaccadeAnalysisApp.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\filter_butterworth.m</file>
+      <file>${PROJECT_ROOT}\filter_butterworth_vel.m</file>
+      <file>${PROJECT_ROOT}\filter_threshold_vel.m</file>
+      <file>${PROJECT_ROOT}\ns.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\vse\Desktop\personal\EVALAB\ProgrammaSaccadi" name="SaccadeAnalysisMatlabApp" optional="false">C:\Users\vse\Desktop\personal\EVALAB\ProgrammaSaccadi\SaccadeAnalysisMatlabApp</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2019b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
