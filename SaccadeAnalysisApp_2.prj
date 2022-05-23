@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Saccade analysis and creation of excel reports and graphs</param.summary>
     <param.description>Graphic tool for the extraction of bags from raw data and calculation of some basic statistics. You can export a report in excel for further analysis. In the current version the tool supports EyeLink Portable Duo and ASL data extracted in txt format and previous saved data as .mat.</param.description>
-    <param.screenshot>C:\Users\vse\AppData\Local\Temp\tp6384ca26_75e6_4c96_a272_db23806a5a04.png</param.screenshot>
+    <param.screenshot />
     <param.version>2.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -21,6 +21,7 @@
       <param.company />
       <param.icon />
       <param.icons />
+      <param.screenshot />
       <param.products.name />
       <param.products.id />
       <param.products.version />
