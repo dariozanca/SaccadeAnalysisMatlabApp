@@ -1,5 +1,5 @@
 # SaccadeAnalysisMatlabApp
-A scientific tool with an effective and simple graphical user interface realized with Matlab App Designer to upload raw gaze data and create saccade reports
+A scientific tool with an effective and simple graphical user interface realized with Matlab App Designer (Matlab R2019b) to upload raw gaze data and create saccade reports
 
 Preview screenshot:
 ![Test Image 1](Screenshot.png)
